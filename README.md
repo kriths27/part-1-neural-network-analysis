@@ -6,7 +6,7 @@ This repository contains a full analysis and feed-forward neural network pipelin
 - `notebook.ipynb`: Core Python notebook executing the exploration, preprocessing, modeling, and experimentation.
 - `requirements.txt`: Python package dependency list.
 - `results/`:
-  - `model_comparison_table.csv` / `.png`: Results across various architectures and hyperparameter choices.
+  - `model_comparison_table.csv`: Results across various architectures and hyperparameter choices.
   - `evaluation_outputs.png`: Plot of training/validation curves and confusion matrix.
 
 ## Key Insights & Hyperparameter Performance
